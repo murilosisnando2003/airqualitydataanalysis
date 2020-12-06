@@ -1,0 +1,12 @@
+name: AirQualityAnalysis
+title: AirQualityAnalysis
+username:
+account: murilo-rodrigues
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3362082
+bundleId: 3951689
+url: https://murilo-rodrigues.shinyapps.io/AirQualityAnalysis/
+when: 1607287154.93283
+asMultiple: FALSE
+asStatic: FALSE
